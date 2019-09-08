@@ -159,7 +159,7 @@ You can assign content-specific `weight` in the front matter of your content. Th
 
 ## Override Global Markdown Configuration
 
-It's possible to set some options for Markdown rendering in a content's front matter as an override to the [BlackFriday rendering options set in your project configuration][config].
+It's possible to set some options for Markdown rendering in a content's front matter as an override to the [BlackFriday rendering options set in your project configuration][config-blackfriday].
 
 ## Front Matter Format Specs
 
@@ -171,7 +171,7 @@ It's possible to set some options for Markdown rendering in a content's front ma
 [aliases]: /content-management/urls/#aliases/
 [archetype]: /content-management/archetypes/
 [bylinktitle]: /templates/lists/#by-link-title
-[config]: /getting-started/configuration/ "Hugo documentation for site configuration"
+[config-blackfriday]: /getting-started/configuration/#configure-blackfriday "Hugo documentation for site configuration"
 [content type]: /content-management/types/
 [contentorg]: /content-management/organization/
 [definetype]: /content-management/types/#defining-a-content-type "Learn how to specify a type and a layout in a content's front matter"
